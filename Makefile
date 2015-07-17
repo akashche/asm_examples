@@ -1,4 +1,4 @@
-NAME:=hello
+NAME := hello
 
 all: assemble run
 
